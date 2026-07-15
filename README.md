@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gaurav Kedia</h1>
 
-<!--
-**gkedia19-glitch/gkedia19-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Software Engineer | Java Developer | DSA Learner | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🎓 B.Tech CSBS Student at Jain (Deemed-to-be University)<br>
+💻 Solving LeetCode Daily<br>
+🌱 Currently Learning Java, DSA and Backend Development<br>
+🚀 Goal: Software Engineering Internship & SDE Role
+</p>
