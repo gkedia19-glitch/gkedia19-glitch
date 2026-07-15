@@ -20,7 +20,7 @@ I'm a Computer Science student at **Jain (Deemed-to-be University), Bangalore**,
 
 I enjoy solving programming problems, understanding how software is built, and improving through consistent practice. Most of my time goes into **Data Structures & Algorithms**, Java, and building projects that strengthen my fundamentals.
 
-Right now, my goal isn't to learn every technology—it's to become really good at problem solving and software development, one step at a time.
+Right now, my goal isn't to learn every technology,it's to become really good at problem solving and software development, one step at a time.
 
 ---
 
